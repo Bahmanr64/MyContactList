@@ -1,0 +1,26 @@
+.container {
+  margin: 50px 0;
+  text-align: center;
+}
+
+.container h1 {
+  color: #0437f2;
+  margin-bottom: 20px;
+}
+.container p {
+  color: #778899;
+}
+
+.container a {
+  text-decoration: none;
+  color: #0437f2;
+  background-color: #c9edf8;
+  padding: 3px 5px;
+  border-radius: 5px;
+  transition: 0.2s all ease-in-out;
+}
+
+.container a:hover {
+  color: aquamarine;
+  background-color: #0437f2;
+}
